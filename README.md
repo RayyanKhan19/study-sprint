@@ -8,7 +8,7 @@ Study Sprint is a simple student task-management web app built with AI assistanc
 
 ## Demo Video
 
-**YouTube demo:** ADD_YOUR_UNLISTED_YOUTUBE_URL_HERE
+**YouTube demo:** https://youtu.be/W4hNf1RttjA
 
 ## Features
 
