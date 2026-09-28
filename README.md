@@ -4,7 +4,7 @@ Study Sprint is a simple student task-management web app built with AI assistanc
 
 ## Live App
 
-**Deployed app:** ADD_YOUR_NETLIFY_URL_HERE
+**Deployed app:** https://spiffy-flan-4fc8d5.netlify.app
 
 ## Demo Video
 
@@ -84,7 +84,7 @@ On a fresh database, each task requires an owner. When upgrading the earlier pub
 
 ## GitHub Repository
 
-**Repository:** ADD_YOUR_GITHUB_REPO_URL_HERE
+**Repository:** https://github.com/RayyanKhan19/study-sprint
 
 ## AI-Assisted Development
 
