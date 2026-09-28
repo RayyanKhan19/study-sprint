@@ -1,0 +1,32 @@
+YOUR CURRENT PROGRESS
+- Supabase project created.
+- Database setup succeeded.
+- config.js already contains your project URL and publishable key.
+NEXT: Extract this updated ZIP and continue at step 6 below (GitHub).
+Live database and login testing are still pending.
+
+START HERE - STUDY SPRINT
+
+The code is prepared. Account setup, database connection, deployment, and your video remain.
+
+1. Download this ZIP, right-click it, and choose Extract All (Windows).
+2. Create a FREE Supabase project named study-sprint. Keep its database password private.
+3. Open SQL Editor in that project. Open supabase.sql in Notepad, copy ALL its contents into SQL Editor, and Run.
+4. Find the Project URL and publishable key using the project's Connect dialog or project settings.
+5. Open config.js in Notepad. Replace the two YOUR_ placeholders with those values, keeping quotation marks. Save as config.js, not config.js.txt.
+   Use the publishable/anon key, never a secret/service_role key or database password.
+6. Create a PUBLIC GitHub repository named study-sprint. Upload index.html, styles.css, and config.js; commit "Add Study Sprint interface and configuration".
+7. Upload app.js and supabase.sql; commit "Add authenticated Supabase task management".
+8. Upload README.md, DEMO_SCRIPT.md, QUICK_START.txt; commit "Document setup and demo workflow".
+   These are actual uploads now; do not backdate commits or claim development over days.
+9. Deploy with Netlify by importing the GitHub repository. No build command; publish directory is . (the repository root). No paid plan needed.
+10. In Supabase Authentication URL Configuration, set Site URL to the deployed URL. Allow that URL as a redirect URL too.
+11. Open the deployed app. Register using an email you can access and a password of at least 8 characters. Confirm via email if prompted, then log in.
+12. Add a task. Refresh: it should remain. Edit it, complete it, use the filters, and delete a temporary task. Check the tasks table in Supabase. Log out and log back in.
+13. Replace the README placeholders with your deployed URL and GitHub URL. Commit "Document deployed application".
+14. Record a 3-5 minute demo using DEMO_SCRIPT.md. Show the deployed site, not localhost. Upload to YouTube as UNLISTED.
+15. Put the video link in README.md; commit "Add demonstration video".
+16. Submit the public GitHub repository URL to Canvas.
+
+The assignment also expects you to watch the Hootcamp lectures. This package does not replace that requirement.
+If a dashboard looks different, send a screenshot and ask for the next click.
